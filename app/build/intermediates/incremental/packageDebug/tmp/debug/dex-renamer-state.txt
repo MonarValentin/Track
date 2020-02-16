@@ -1,0 +1,4 @@
+#Sun Feb 09 14:31:02 GMT 2020
+base.0=C\:\\Users\\monar\\Track\\app\\build\\intermediates\\transforms\\r8\\debug\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
