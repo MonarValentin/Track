@@ -3,14 +3,14 @@ DH (Data Highway)
 *DH documentation* :
 <https://git.ouroath.com/pages/dhrainbow/debugging/emitters/>
 
-\`\`\`
+```
 
 \$ sudo /home/y/bin/dh_rainbow_streammon \|grep EventForwarder.totalEventsSent
 && sleep 20 && sudo /home/y/bin/dh_rainbow_streammon \|grep
 EventForwarder.totalEventsSent && sleep 20 && sudo
 /home/y/bin/dh_rainbow_streammon \|grep EventForwarder.totalEventsSent
 
-\`\`\`
+```
 
 *Triangular issue:* dh_rainbow_debug
 
