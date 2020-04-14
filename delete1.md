@@ -35,7 +35,7 @@ $ pgrep -f /home/y/bin64/dh_rainbow_eventforwarder \`\`\`
 OR
 
 ```
-
+```
 $ sudo svstat /home/y/var/service/fac20-dh_rainbow_eventforwarder
 
 ```
